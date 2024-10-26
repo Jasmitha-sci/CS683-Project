@@ -9,4 +9,6 @@ HPCA’ 21 Dead Page and Dead Block Predictors:-https://www.csa.iisc.ac.in/~arka
 
 To run the Victimia we first need to set up the slurm and Docker
 
+https://github.com/CMU-SAFARI/Victima
+
 Simulator:-Sniper is the simulator used to do the experiments.
