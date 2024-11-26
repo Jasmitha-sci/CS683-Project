@@ -7,8 +7,6 @@ Victimia:-https://dl.acm.org/doi/10.1145/3613424.3614276
 
 HPCA’ 21 Dead Page and Dead Block Predictors:-https://www.csa.iisc.ac.in/~arkapravab/papers/hpca21_DOA.pdf 
 
-To run the Victimia we first need to set up the slurm and Docker
-
-https://github.com/CMU-SAFARI/Victima
-
 Simulator:-Sniper is the simulator used to do the experiments.
+
+The Zip files dp.zip, combined_Victima_dp.zip contains the implementation of dead_page predictor , Victima+dead_page predictor respectively.
