@@ -1,0 +1,42 @@
+                                   | Core 0    
+  Instructions                     |  499999815
+  Cycles                           |  745265040
+  IPC                              |       0.67
+  Time (ns)                        |  286640400
+  Idle time (ns)                   |        -40
+  Idle time (%)                    |      -0.0%
+Branch predictor stats             |           
+  num correct                      |   38940556
+  num incorrect                    |      55922
+  misprediction rate               |      0.14%
+  mpki                             |       0.11
+TLB Summary                        |           
+  I-TLB                            |           
+    num accesses                   |    1229342
+    num misses                     |          1
+    miss rate                      |      0.00%
+    mpki                           |       0.00
+  D-TLB                            |           
+    num accesses                   |  306109920
+    num misses                     |   40053500
+    miss rate                      |     13.08%
+    mpki                           |      80.11
+  L2 TLB                           |           
+    num accesses                   |   80107002
+    num misses                     |   35545723
+    miss rate                      |     44.37%
+    mpki                           |      71.09
+Cache Summary                      |           
+  NUCA cache                       |           
+    num cache accesses             |   81908723
+    num cache misses               |    2884423
+    miss rate                      |      3.52%
+    mpki                           |       5.77
+DRAM summary                       |           
+  num dram accesses                |   43859962
+  average dram access latency (ns) |       0.00
+  average dram queueing delay      |       0.00
+Coherency Traffic                  |           
+  num loads from dram              |   43837206
+  num loads from dram cache        |          0
+  num loads from remote cache      |          0
